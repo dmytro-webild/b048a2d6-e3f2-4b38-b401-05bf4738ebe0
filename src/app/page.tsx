@@ -62,7 +62,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/modern-boardroom-with-digital-monitor_482257-123487.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/modern-boardroom-with-digital-monitor_482257-123487.jpg?_wi=1"
       mediaAnimation="slide-up"
       avatars={[
         {
@@ -139,21 +139,21 @@ export default function LandingPage() {
         {
           title: "Сайтове за малък бизнес",
           description: "Бързи и оптимизирани уебсайтове.",
-          imageSrc: "http://img.b2bpic.net/free-photo/optical-fiber-background_23-2149301538.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/optical-fiber-background_23-2149301538.jpg?_wi=1",
           titleImageSrc: "http://img.b2bpic.net/free-photo/rag-doll-with-dollar-sign_1156-149.jpg",
           buttonText: "Научи повече",
         },
         {
           title: "Мобилен дизайн",
           description: "Сайтове, които изглеждат перфектно на всеки телефон.",
-          imageSrc: "http://img.b2bpic.net/free-photo/responsive-design-layout-internet-concept_53876-124371.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/responsive-design-layout-internet-concept_53876-124371.jpg?_wi=1",
           titleImageSrc: "http://img.b2bpic.net/free-photo/worker-examines-phone-with-greenscreen_482257-76605.jpg",
           buttonText: "Научи повече",
         },
         {
           title: "Повече клиенти",
           description: "Фокус върху конверсии и резултати.",
-          imageSrc: "http://img.b2bpic.net/free-photo/dynamic-data-visualization-3d_23-2151904303.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/dynamic-data-visualization-3d_23-2151904303.jpg?_wi=1",
           titleImageSrc: "http://img.b2bpic.net/free-photo/business-report-graphs-charts-business-concept_1150-2270.jpg",
           buttonText: "Научи повече",
         },
@@ -176,7 +176,7 @@ export default function LandingPage() {
           quote: "Страхотна работа и бърза комуникация.",
           tag: "Успех",
           avatarSrc: "http://img.b2bpic.net/free-photo/smiling-entrepreneur-posing-camera_1262-3636.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/modern-boardroom-with-digital-monitor_482257-123487.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/modern-boardroom-with-digital-monitor_482257-123487.jpg?_wi=2",
           imageAlt: "professional man portrait",
         },
         {
@@ -198,7 +198,7 @@ export default function LandingPage() {
           quote: "Професионално отношение и модерен дизайн.",
           tag: "Успех",
           avatarSrc: "http://img.b2bpic.net/free-photo/american-african-black-beautiful-business_1303-1344.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/optical-fiber-background_23-2149301538.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/optical-fiber-background_23-2149301538.jpg?_wi=2",
           imageAlt: "professional man portrait",
         },
         {
@@ -209,7 +209,7 @@ export default function LandingPage() {
           quote: "Много доволна от крайния резултат.",
           tag: "Успех",
           avatarSrc: "http://img.b2bpic.net/free-photo/young-beautiful-woman-with-curly-hair-isolated_273609-48186.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/responsive-design-layout-internet-concept_53876-124371.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/responsive-design-layout-internet-concept_53876-124371.jpg?_wi=2",
           imageAlt: "professional man portrait",
         },
         {
@@ -220,7 +220,7 @@ export default function LandingPage() {
           quote: "Препоръчвам горещо услугите им.",
           tag: "Успех",
           avatarSrc: "http://img.b2bpic.net/free-photo/business-man-working-tablet-sitting-sofa_1303-24087.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/dynamic-data-visualization-3d_23-2151904303.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/dynamic-data-visualization-3d_23-2151904303.jpg?_wi=2",
           imageAlt: "professional man portrait",
         },
       ]}
