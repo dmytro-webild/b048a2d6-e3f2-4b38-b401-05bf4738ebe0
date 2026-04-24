@@ -51,7 +51,7 @@ export default function LandingPage() {
       description="Правим модерни сайтове, които превръщат посетителите в реални клиенти. Увеличете бизнеса си с професионално присъствие онлайн."
       buttons={[
         {
-          text: "Свържи се с нас",          href: "#contact"},
+          text: "Безплатна консултация",          href: "#contact"},
       ]}
       imageSrc="http://img.b2bpic.net/free-photo/modern-boardroom-with-digital-monitor_482257-123487.jpg?_wi=1"
       mediaAnimation="slide-up"
